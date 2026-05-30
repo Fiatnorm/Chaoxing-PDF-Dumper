@@ -6,3 +6,12 @@ __pycache__/
 .env.*
 
 .vscode/
+
+# Local Chaoxing debugging artifacts
+cards/
+*.html
+*_status.json
+*_results.json
+pdf_downloads.json
+studentcourse.html
+test*.py

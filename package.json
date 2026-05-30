@@ -1,0 +1,9 @@
+{
+  "name": "chaoxing-courseware-dumper",
+  "version": "0.6.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node --check chaoxing-courseware-dumper.user.js"
+  }
+}
