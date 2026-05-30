@@ -81,4 +81,4 @@
 
 ## 开源协议
 
-本项目基于 MIT License 开源，详见 [LICENSE](https://github.com/Fiatnorm/Chaoxing-PDF-Dumper/blob/main/LICENSE)。
+本项目基于 MIT License 开源，详见 [LICENSE](https://raw.githubusercontent.com/Fiatnorm/Chaoxing-PDF-Dumper/refs/heads/main/LICENSE)。
