@@ -1,6 +1,6 @@
 # Chaoxing PDF Dumper
 
-Chaoxing PDF Dumper 是一个用于超星学习通 / Chaoxing 课程页面的 userscript。
+[Chaoxing PDF Dumper](https://github.com/Fiatnorm/Chaoxing-PDF-Dumper) 是一个用于超星学习通 / Chaoxing 课程页面的 userscript。
 
 它会在课程页或章节页右下角显示“课件下载”按钮，打开后可以扫描课件资源、识别 PDF、勾选需要的文件并下载。脚本直接运行在 Tampermonkey、ScriptCat 等 userscript 管理器中，不需要构建，也不需要后端服务。
 
