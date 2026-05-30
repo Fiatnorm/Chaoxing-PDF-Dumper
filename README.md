@@ -40,7 +40,7 @@
 4. 保存脚本。
 5. 打开匹配的超星课程页或章节页。
 
-也可以在仓库页面打开 `chaoxing-courseware-dumper.user.js`，复制完整源码后安装到 userscript 管理器中。
+也可以在仓库页面打开 [`chaoxing-courseware-dumper.user.js`](https://github.com/Fiatnorm/Chaoxing-PDF-Dumper/blob/main/chaoxing-courseware-dumper.user.js)，复制完整源码后安装到 userscript 管理器中。
 
 ## 使用方法
 
@@ -73,12 +73,12 @@
 
 ## 技术说明
 
-技术细节、权限说明、调试接口、版本规则和测试清单已移到 [docs/TECHNICAL.md](docs/TECHNICAL.md)。
+技术细节、权限说明、调试接口、版本规则和测试清单已移到 [docs/TECHNICAL.md](https://github.com/Fiatnorm/Chaoxing-PDF-Dumper/blob/main/docs/TECHNICAL.md)。
 
 ## 更新日志
 
-版本变化见 [CHANGELOG.md](CHANGELOG.md)。
+版本变化见 [docs/CHANGELOG.md](https://github.com/Fiatnorm/Chaoxing-PDF-Dumper/blob/main/docs/CHANGELOG.md)。
 
 ## 开源协议
 
-本项目基于 MIT License 开源，详见 [LICENSE](LICENSE)。
+本项目基于 MIT License 开源，详见 [LICENSE](https://github.com/Fiatnorm/Chaoxing-PDF-Dumper/blob/main/LICENSE)。

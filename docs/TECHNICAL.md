@@ -1,6 +1,6 @@
 # 技术说明
 
-本文档记录 Chaoxing PDF Dumper 的技术细节。普通使用方法请看 [README.md](../README.md)。
+本文档记录 Chaoxing PDF Dumper 的技术细节。普通使用方法请看 [README.md](https://github.com/Fiatnorm/Chaoxing-PDF-Dumper/blob/main/README.md)。
 
 ## 项目结构
 
@@ -75,10 +75,10 @@ npm test
 
 建议每次发布遵循以下流程：
 
-1. 先更新 `CHANGELOG.md`，记录用户能看懂的变化。
+1. 先更新 `docs/CHANGELOG.md`，记录用户能看懂的变化。
 2. 如果脚本行为发生变化，同步提升 userscript metadata 中的 `@version`、`SCRIPT_VERSION` 和 `package.json`。
 3. 提交信息写短一些，可以作为发布页更新日志的备选摘要。
-4. 在 Greasy Fork / ScriptCat 发布页中，将 `CHANGELOG.md` 对应版本的 1 到 4 条要点复制到“更新日志”。
+4. 在 Greasy Fork / ScriptCat 发布页中，将 `docs/CHANGELOG.md` 对应版本的 1 到 4 条要点复制到“更新日志”。
 5. 文档、截图、注释等不影响脚本运行的改动，通常不需要提升 userscript 版本。
 
 ## 维护原则
