@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Chaoxing PDF Dumper
 // @namespace    https://chaoxing.com/
-// @version      0.6.0
+// @version      0.6.1
 // @description  Find and batch download PDF files from the current Chaoxing course page.
+// @license      MIT
 // @icon         https://app.chaoxing.com/res/images/apk/logo.png
 // @match        https://mooc2-ans.chaoxing.com/mooc2-ans/mycourse/*
 // @match        https://mooc1.chaoxing.com/mycourse/*
@@ -31,7 +32,7 @@
     const PDF_REFERER = 'https://mooc1.chaoxing.com/ananas/modules/pdf/index.html?v=2026-0312-1153';
     const UI_ID = 'cxpdf-dumper-panel';
     const SCRIPT_NAME = 'Chaoxing PDF Dumper';
-    const SCRIPT_VERSION = '0.6.0';
+    const SCRIPT_VERSION = '0.6.1';
     const SCRIPT_ICON_URL = 'https://app.chaoxing.com/res/images/apk/logo.png';
     const VERSION_POLICY = {
         major: 'Breaking changes to supported pages, permissions, data shape, or default behavior.',
