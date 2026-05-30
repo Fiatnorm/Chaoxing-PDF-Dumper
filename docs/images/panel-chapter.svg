@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="704" viewBox="0 0 850 704" role="img" aria-label="当前章节下载面板示意图">
+  <rect width="850" height="704" fill="#f3f6fb"/>
+  <rect x="640" y="6" width="205" height="53" rx="10" fill="#eaf4ff" stroke="#8fc7ff"/>
+  <text x="656" y="40" font-family="Arial, sans-serif" font-size="22" font-weight="700" fill="#0872f5">已打开课件下载面板</text>
+  <rect x="5" y="73" width="840" height="559" rx="10" fill="#fff" stroke="#cfd9e8"/>
+  <rect x="5" y="73" width="840" height="59" rx="10" fill="#f7fbff"/>
+  <text x="24" y="110" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#111d34">Chaoxing PDF Dumper</text>
+  <text x="790" y="109" font-family="Arial, sans-serif" font-size="16" fill="#50627d">就绪</text>
+  <rect x="24" y="147" width="110" height="44" rx="8" fill="#0b7cff"/>
+  <text x="39" y="176" font-family="Arial, sans-serif" font-size="18" fill="#fff">重新扫描</text>
+  <rect x="146" y="147" width="138" height="44" rx="8" fill="#0b7cff"/>
+  <text x="164" y="176" font-family="Arial, sans-serif" font-size="18" fill="#fff">下载勾选 (1)</text>
+  <rect x="296" y="147" width="123" height="44" rx="8" fill="#fff" stroke="#b8cce8"/>
+  <text x="313" y="176" font-family="Arial, sans-serif" font-size="18" fill="#18304f">复制 JSON</text>
+  <text x="24" y="231" font-family="Arial, sans-serif" font-size="20" fill="#4b607d">courseid=251328453，clazzid=118442046，章节 1/1，已选 1 章 / 1 个 PDF，共 1 个 PDF</text>
+  <rect x="24" y="252" width="804" height="62" rx="10" fill="#e9fff1" stroke="#0ec95b"/>
+  <rect x="40" y="267" width="33" height="33" rx="8" fill="#12aee8"/>
+  <path d="M48 282l7 8 14-17" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="88" y="292" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#006b2f">已全选章节</text>
+  <text x="744" y="291" font-family="Arial, sans-serif" font-size="17" fill="#526d91">1/1 章</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="24" y="344" width="804" height="219" rx="10" fill="#fff" stroke="#22d66c"/>
+    <rect x="24" y="344" width="804" height="58" rx="10" fill="#e4faec"/>
+    <rect x="40" y="356" width="33" height="33" rx="8" fill="#0fd456"/>
+    <path d="M48 372l7 7 14-16" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="88" y="356" width="86" height="33" rx="16" fill="#c8ffd9"/>
+    <text x="114" y="379" font-size="18" font-weight="700" fill="#006b2f">已选</text>
+    <text x="190" y="380" font-size="18" font-weight="700" fill="#006b2f">梯度散度旋度</text>
+    <text x="644" y="380" font-size="20" fill="#354a64">1 个 PDF / 2 个资源</text>
+    <rect x="40" y="421" width="21" height="21" rx="5" fill="#12aee8"/>
+    <path d="M45 431l5 6 10-13" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="73" y="428" font-size="20" fill="#263449">第3讲 矢量代数2.pdf</text>
+    <text x="73" y="462" font-size="17" fill="#55719a">cf48fcb98e905ec5772b235693213897</text>
+    <rect x="609" y="420" width="122" height="44" rx="8" fill="#fff" stroke="#b8cce8"/>
+    <text x="624" y="449" font-size="18" fill="#18304f">复制 JSON</text>
+    <rect x="741" y="420" width="72" height="44" rx="8" fill="#fff" stroke="#b8cce8"/>
+    <text x="758" y="449" font-size="18" fill="#18304f">下载</text>
+    <line x1="24" y1="482" x2="828" y2="482" stroke="#eef2f7"/>
+    <text x="73" y="516" font-size="20" fill="#263449">2-1 矢量代数2.mp4</text>
+    <rect x="227" y="497" width="71" height="30" rx="15" fill="#eef3fb"/>
+    <text x="239" y="518" font-size="16" fill="#52627c">success</text>
+    <text x="73" y="543" font-size="17" fill="#55719a">31672001b54e8d4d2129f7a8c1b4769b</text>
+    <rect x="689" y="499" width="123" height="44" rx="8" fill="#fff" stroke="#b8cce8"/>
+    <text x="705" y="528" font-size="18" fill="#18304f">复制 JSON</text>
+  </g>
+  <rect x="5" y="582" width="840" height="50" fill="#fff" stroke="#e3e8f1"/>
+  <text x="24" y="613" font-family="Arial, sans-serif" font-size="18" fill="#37506f">[18:16:55] 当前章节扫描完成，找到 1 个 PDF | [18:16:54] 开始读取当前章节课件</text>
+  <rect x="690" y="648" width="156" height="58" rx="29" fill="#0b7cff"/>
+  <text x="748" y="685" font-family="Arial, sans-serif" font-size="23" font-weight="700" fill="#fff">收起</text>
+</svg>
