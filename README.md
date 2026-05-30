@@ -8,11 +8,11 @@ Chaoxing PDF Dumper 是一个用于超星学习通 / Chaoxing 课程页面的 us
 
 课程页批量扫描：
 
-![课程页下载面板](docs/images/panel-course.svg)
+![课程页下载面板](https://raw.githubusercontent.com/Fiatnorm/Chaoxing-PDF-Dumper/main/docs/images/panel-course.png)
 
 当前章节扫描：
 
-![当前章节下载面板](docs/images/panel-chapter.svg)
+![当前章节下载面板](https://raw.githubusercontent.com/Fiatnorm/Chaoxing-PDF-Dumper/main/docs/images/panel-chapter.png)
 
 ## 主要功能
 
