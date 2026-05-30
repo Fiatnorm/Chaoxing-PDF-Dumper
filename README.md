@@ -74,6 +74,10 @@ Chaoxing PDF Dumper 是一个用于超星学习通 / Chaoxing 课程页面的 us
 
 技术细节、权限说明、调试接口、版本规则和测试清单已移到 [docs/TECHNICAL.md](docs/TECHNICAL.md)。
 
+## 更新日志
+
+版本变化见 [CHANGELOG.md](CHANGELOG.md)。
+
 ## 开源协议
 
 本项目基于 MIT License 开源，详见 [LICENSE](LICENSE)。
